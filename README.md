@@ -9,17 +9,17 @@ Simply install and activate the plugin.
 ## Usage
 
 ex. '[woo_products_custom_tax tax_name="collection" tax_tags="gold-jewellery, diamond-jewellery" category="7" qty="10" order="DESC"]'
-    Displays products with: 
-    	- custom taxonomy of 'collection'
-    	- tags of 'gold-jewellery' or 'diamond-jewellery'
-    	- category id of '7'
+    <br/>Displays products with: 
+    	<br/>- custom taxonomy of 'collection'
+    	<br/>- tags of 'gold-jewellery' or 'diamond-jewellery'
+    	<br/>- category id of '7'
 
 # Attributes
 
-tax_name*: The custom taxonomy name
-tax_tags*: The custom taxonomy tag/s (comma separated)
-category*: The product category id
-qty: Number of products to display (posts_per_page, default: -1)
+tax_name*: The custom taxonomy name<br/>
+tax_tags*: The custom taxonomy tag/s (comma separated)<br/>
+category*: The product category id<br/>
+qty: Number of products to display (posts_per_page, default: -1)<br/>
 order: 'DESC' or 'ASC' (default: 'DESC')
 
 *required
